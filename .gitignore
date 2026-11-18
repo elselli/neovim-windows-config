@@ -1,0 +1,17 @@
+# Logs and swap/undo files
+*.log
+*.swp
+*.swo
+*~
+*.un~
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Local-only state
+.neoconf.local.json
+.luarc.local.json
